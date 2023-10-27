@@ -573,7 +573,7 @@ header div{
 header nav{
         background: lime;
 
-        width: 20vh;
+        width: 200px;
         height: 100vh;
         position: fixed;
         right: -250px;
